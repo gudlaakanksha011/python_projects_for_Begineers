@@ -50,5 +50,7 @@ Algorithmic Thinking: Managing game states and random probability.
 
 📬 Contact
 Feel free to reach out if you have any questions or suggestions!
+
 GitHub: @gudlaakanksha011
+
 LinkedIn: Gudla Akanksha
