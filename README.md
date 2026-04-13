@@ -21,16 +21,23 @@ Clone the repo and run any file using Python:
 * User Input Handling
 
 🛠️ Installation & Usage
+
 Clone the repository:
 
 Bash
+
 git clone https://github.com/gudlaakanksha011/python-projects-portfolio.git
+
 Navigate to the directory:
 
 Bash
 cd python-projects-portfolio
+
 Run a project:
-Each project is contained in its own script. For example:
+
+Each project is contained in its own script. 
+
+For example:
 
 Bash
 python filename.py
